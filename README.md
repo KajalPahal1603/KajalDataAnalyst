@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Kajal 👋
 
-<!--
-**kajalDataAnalyst/KajalDataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Business Analyst | MSc Data Science & AI
 
-Here are some ideas to get you started:
+I'm an MSc Data Science & Artificial Intelligence student at Aston University, with professional experience in business analysis, operations, reporting and data analysis across the UK and India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with data to identify trends, create reports and dashboards, and support business decision-making.
+
+## 🛠️ Skills
+
+- SQL
+- Python
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Data Analysis
+- Business Analysis
+
+## 📊 Featured Project
+
+### Diabetes Patient Analytics
+
+Patient segmentation, length-of-stay analysis and 30-day readmission classification using Python and machine learning.
+
+**Tech:** Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Jupyter Notebook
+
+[View Project](https://github.com/kajalDataAnalyst/diabetes-patient-analytics)
+
+## 🎓 Education
+
+**MSc Data Science & Artificial Intelligence**  
+Aston University, UK
+
+**Bachelor of Commerce**  
+Kurukshetra University, India
+
+## 🔗 Connect with Me
+
+[LinkedIn](www.linkedin.com/in/kajal-pahal)
+
+
+
