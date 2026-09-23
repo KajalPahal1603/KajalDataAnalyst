@@ -41,7 +41,7 @@ Kurukshetra University, India
 
 ## 🔗 Connect with Me
 
-[LinkedIn](www.linkedin.com/in/kajal-pahal)
+[LinkedIn](https://www.linkedin.com/in/kajal-pahal)
 
 
 
